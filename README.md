@@ -2,7 +2,7 @@
 
 A small React + TypeScript app for the Offset frontend task: upload an invoice, see where each extracted value was read from, and approve or correct it with a full change log.
 
-**Live:** _add link after deploy_
+**Live:** https://khadijaakbar79.github.io/offset-invoice-review/
 
 ## What it does
 
